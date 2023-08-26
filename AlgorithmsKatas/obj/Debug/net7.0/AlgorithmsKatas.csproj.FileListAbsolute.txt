@@ -1,0 +1,15 @@
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\bin\Debug\net7.0\AlgorithmsKatas.exe
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\bin\Debug\net7.0\AlgorithmsKatas.deps.json
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\bin\Debug\net7.0\AlgorithmsKatas.runtimeconfig.json
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\bin\Debug\net7.0\AlgorithmsKatas.dll
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\bin\Debug\net7.0\AlgorithmsKatas.pdb
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\obj\Debug\net7.0\AlgorithmsKatas.csproj.AssemblyReference.cache
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\obj\Debug\net7.0\AlgorithmsKatas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\obj\Debug\net7.0\AlgorithmsKatas.AssemblyInfoInputs.cache
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\obj\Debug\net7.0\AlgorithmsKatas.AssemblyInfo.cs
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\obj\Debug\net7.0\AlgorithmsKatas.csproj.CoreCompileInputs.cache
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\obj\Debug\net7.0\AlgorithmsKatas.dll
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\obj\Debug\net7.0\refint\AlgorithmsKatas.dll
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\obj\Debug\net7.0\AlgorithmsKatas.pdb
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\obj\Debug\net7.0\AlgorithmsKatas.genruntimeconfig.cache
+E:\Programming\AlgorithmsKatas\AlgorithmsKatas\obj\Debug\net7.0\ref\AlgorithmsKatas.dll
