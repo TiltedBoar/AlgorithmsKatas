@@ -3,7 +3,6 @@
     //https://leetcode.com/problems/balanced-binary-tree/
     public class BalancedBinaryTree
     {
-
         // Definition for a binary tree node.
         public class TreeNode
         {
@@ -66,7 +65,7 @@
 
             return height;
 
-        }
+        } 
     }
 }
 
